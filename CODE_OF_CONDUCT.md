@@ -1,8 +1,13 @@
 # Code of Conduct
 
-## Our Standards
+Version: 1.0
+Last updated: 2026-09-07
 
-The BCA Upper Cafe project is intended to be a welcoming, respectful, and constructive project for the Bergen County Academies community.
+## Purpose
+
+The BCA Upper Cafe project exists to be a welcoming, respectful, and constructive learning and engineering environment for the Bergen County Academies community. This Code of Conduct explains expected behavior, reporting channels, and how the project responds to incidents.
+
+## Our Standards
 
 All contributors, maintainers, students, staff, and other participants are expected to:
 
@@ -18,79 +23,95 @@ All contributors, maintainers, students, staff, and other participants are expec
 
 ## Unacceptable Behavior
 
-The following behavior is not acceptable within the project:
+The following behaviors are examples of unacceptable conduct and will not be tolerated:
 
 - Harassment, discrimination, bullying, threats, intimidation, or personal attacks.
 - Trolling, deliberate disruption, or persistent bad-faith participation.
-- Insulting or targeting individuals based on their identity, background, experience, or other personal characteristics.
+- Insulting or targeting individuals based on identity, background, experience, or other personal characteristics.
 - Publishing, requesting, or distributing private or identifying information without permission.
 - Sharing confidential school, student, teacher, staff, or administrative information.
-- Submitting credentials, authentication tokens, API keys, or other secrets to project repositories.
+- Submitting credentials, authentication tokens, API keys, or other secrets to project repositories or issue trackers.
 - Accessing, modifying, deleting, or attempting to obtain data or functionality without authorization.
 - Exploiting or attempting to exploit project systems, accounts, applications, or infrastructure.
 - Intentionally introducing malicious code, backdoors, or other harmful functionality.
 - Using project resources to harm, disrupt, or interfere with other users or school systems.
 - Any other conduct that would reasonably make the project unsafe, hostile, or unwelcoming.
 
-## Project-Specific Privacy and Security Expectations
+(This list is illustrative, not exhaustive.)
 
-Because the BCA Upper Cafe project may interact with school-related information, contributors must take particular care when developing, testing, documenting, and discussing the project.
+## Privacy, Security & School Data — Mandatory Requirements
 
-**Never submit real student or teacher data, credentials, API keys, authentication tokens, attendance or check-in records, schedules, contact information, or other private information to the project.**
+Because this project may interact with school-related information, contributors must take particular care:
 
-This includes information contained in:
+- Never submit real student or teacher data, credentials, API keys, authentication tokens, attendance or check-in records, schedules, contact information, or other private information to the project.
+- Do not include personal or identifying information in issues, pull requests, commits, documentation, screenshots, logs, test fixtures, or demos.
+- Use fictional, synthetic, or properly anonymized data when demonstrating functionality or reporting bugs.
+- If you discover a security vulnerability or leak of sensitive data, follow the project's private reporting process (see "Reporting" below) instead of posting details publicly.
 
-- Issues and discussions
-- Pull requests
-- Commits
-- Source code
-- Documentation
-- Screenshots and screen recordings
-- Logs and error reports
-- Test fixtures and sample data
-- Demonstrations or examples
+Refer to the repository's SECURITY.md (or the organization-wide security policy) for confidential reporting instructions and response expectations.
 
-Use **fictional, synthetic, or properly anonymized data** when demonstrating functionality or reporting bugs.
+## Reporting — How to Raise Concerns
 
-Security vulnerabilities should be reported privately according to the project's Security Policy rather than being disclosed publicly.
+Per the maintainer's instructions, reporting is handled via GitHub Issues or direct email.
 
-## Contributions and Collaboration
+If you experience or witness unacceptable behavior, or discover a security or privacy issue, please report it:
 
-Contributors are expected to work in good faith and prioritize the reliability, privacy, security, and maintainability of the project.
+- Preferred (confidential): Email the project conduct lead at kabsek30@bergen.org
+- Alternative: Open a new GitHub Issue in this repository describing the concern. If you need confidentiality, indicate that in the issue and maintainers will follow up (note: GitHub Issues are public by default; do not include sensitive personal data in an open issue).
+- Urgent or safety-critical: If someone is in immediate danger or a legal/child-safety issue is present, contact school administration, local law enforcement, or emergency services first.
 
-Disagreements about technical decisions are normal and should be handled through constructive discussion. Criticism should focus on the code, proposal, implementation, or idea rather than the person presenting it.
+When reporting, include:
+- A description of the incident (what happened, when).
+- People involved (usernames or real names, if you know them).
+- Relevant links, screenshots, or logs (avoid posting personal data publicly).
+- Your contact preference and whether you want to remain anonymous.
 
-Maintainers may request changes to contributions that do not meet the project's technical, privacy, security, or community standards.
+If you are unsure whether to report, err on the side of reporting. Reports will be handled confidentially to the extent possible.
 
-## Enforcement
+## Enforcement & Process
 
-Project maintainers are responsible for enforcing this Code of Conduct.
+Project maintainers are responsible for enforcing this Code of Conduct. We aim to handle reports promptly, fairly, and confidentially.
 
-Maintainers may remove, edit, close, or reject comments, issues, pull requests, commits, or other contributions that violate this policy. Depending on the severity or frequency of the behavior, maintainers may also temporarily or permanently restrict an individual's participation in the project.
+Enforcement steps may include:
 
-Serious violations may also be referred to appropriate school administrators or other relevant authorities when necessary.
+1. Triage and confidential intake by a maintainer or designated conduct officer.
+2. Fact-finding and (where appropriate) contacting involved parties for more information.
+3. Short-term actions: warning, request for change, temporary moderation (comment/PR removal or locking), or temporary suspension from project channels.
+4. Escalated actions (for repeated or severe offenses): longer suspensions, removal of project privileges, removal of access to repositories, or referral to school administrators or other authorities when legally or ethically required.
 
-Reports will be reviewed as promptly, fairly, and confidentially as reasonably possible.
+Possible outcomes will be proportionate to the behavior and may include no action (if unfounded), private warnings, temporary or permanent bans from project spaces, and involvement of school administrators or law enforcement for serious matters.
 
-If you experience or witness unacceptable behavior, contact a project maintainer privately rather than escalating the situation publicly.
+We do not tolerate retaliation against anyone who raises a concern in good faith. Retaliation should be reported and will itself be treated as a violation of this Code.
+
+## Special Considerations for Minors and Mandatory Reporting
+
+Because this project operates in a K–12 environment, certain disclosures (for example, allegations of abuse, imminent harm, or child-safety issues) may trigger mandatory reporting to school officials or authorities. If a report suggests a child is at risk, maintainers will follow applicable school and legal reporting obligations.
 
 ## Scope
 
-This Code of Conduct applies to **all repositories, applications, services, documentation, and other project spaces associated with the BCA Upper Cafe project**.
+This Code of Conduct applies to all repositories, applications, services, documentation, and other project spaces associated with the BCA Upper Cafe project, including:
 
-This includes, but is not limited to:
+- GitHub repositories, issues, pull requests, and commit messages
+- Project documentation and websites
+- Official communication channels (chat, mailing lists, etc.)
+- Project-sponsored events and public-facing representation of the project
 
-- GitHub repositories
-- Issues
-- Pull requests
-- Discussions
-- Commit messages
-- Project documentation
-- Official project communication channels
-- Other spaces operated or officially maintained by the project
+It also applies when people present themselves as representatives of the project in public forums.
 
-This Code of Conduct also applies when an individual is representing the BCA Upper Cafe project in public or community spaces.
+## Attribution & License
 
-## Attribution
+This Code of Conduct is adapted from the [Contributor Covenant v3.0](https://www.contributor-covenant.org/version/3/0/) and tailored for the BCA Upper Cafe project's school context. Portions addressing privacy, security, and mandatory reporting were added by the project maintainers.
 
-This Code of Conduct is adapted from the principles of the [Contributor Covenant](https://www.contributor-covenant.org/version/3/0/), with additional guidelines addressing the privacy, security, and school-community requirements of the BCA Upper Cafe project.
+## Related documents
+
+- SECURITY.md — how to report security vulnerabilities privately
+- CONTRIBUTING.md — how to contribute safely and responsibly
+- PRIVACY.md — handling and retention of any authorized project data
+
+If these files are not present in the repo, please request them from the maintainers.
+
+## Contact & Questions
+
+If you have questions about this Code of Conduct, or about how to report an issue, contact: kabsek30@bergen.org or open a private issue addressed to @project-maintainers.
+
+Thank you for helping keep BCA Upper Cafe a safe, welcoming, and productive place to learn and build.
