@@ -39,7 +39,7 @@ The following behaviors are examples of unacceptable conduct and will not be tol
 
 (This list is illustrative, not exhaustive.)
 
-## Privacy, Security & School Data — Mandatory Requirements
+## Privacy, Security &amp; School Data — Mandatory Requirements
 
 Because this project may interact with school-related information, contributors must take particular care:
 
@@ -68,7 +68,7 @@ When reporting, include:
 
 If you are unsure whether to report, err on the side of reporting. Reports will be handled confidentially to the extent possible.
 
-## Enforcement & Process
+## Enforcement &amp; Process
 
 Project maintainers are responsible for enforcing this Code of Conduct. We aim to handle reports promptly, fairly, and confidentially.
 
@@ -98,9 +98,9 @@ This Code of Conduct applies to all repositories, applications, services, docume
 
 It also applies when people present themselves as representatives of the project in public forums.
 
-## Attribution & License
+## Attribution &amp; License
 
-This Code of Conduct is adapted from the [Contributor Covenant v3.0](https://www.contributor-covenant.org/version/3/0/) and tailored for the BCA Upper Cafe project's school context. Portions addressing privacy, security, and mandatory reporting were added by the project maintainers.
+This Code of Conduct is adapted from the <a href="https://www.contributor-covenant.org/version/3/0/">Contributor Covenant v3.0</a> and tailored for the BCA Upper Cafe project's school context. Portions addressing privacy, security, and mandatory reporting were added by the project maintainers.
 
 ## Related documents
 
@@ -110,7 +110,7 @@ This Code of Conduct is adapted from the [Contributor Covenant v3.0](https://www
 
 If these files are not present in the repo, please request them from the maintainers.
 
-## Contact & Questions
+## Contact &amp; Questions
 
 If you have questions about this Code of Conduct, or about how to report an issue, contact: kabsek30@bergen.org or open a private issue addressed to @project-maintainers.
 
