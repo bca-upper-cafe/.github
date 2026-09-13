@@ -6,7 +6,7 @@ A digital system for managing *Upper Cafe* Study Halls at Bergen County Academie
 
 - 🌐 [upper-cafe-web](https://github.com/bca-upper-cafe/upper-cafe-web) — Student check-ins, check-outs, and admin management.
 - 📱 [upper-cafe-mobile](https://github.com/bca-upper-cafe/upper-cafe-mobile) — Mobile app for viewing teacher absences.
-- 🖥️ [upper-cafe-mobile-landing](https://github.com/bca-upper-cafe/upper-cafe-mobile-landing) — Landing page for the mobile app.
+- 🖥️ [school-schedules](https://github.com/bca-upper-cafe/school-schedules) — BCA School Schedules for current year.
 - ⚙️ [upper-cafe-api](https://github.com/bca-upper-cafe/upper-cafe-api) — Backend API powering the Upper Cafe system.
 
 ## About
